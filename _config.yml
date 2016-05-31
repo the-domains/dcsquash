@@ -1,0 +1,14 @@
+layout_spectrum: 0.3121724135708064
+typography_spectrum: 0.49485689983703196
+color:
+  brandStrength: 0.09668350080028176
+  lightness: 0.2709105934482068
+  saturation: 0.4354854882694781
+  rhythmicContrast: 0.6091068948153406
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: DCSquash
